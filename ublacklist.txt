@@ -2,6 +2,7 @@
 *://[.0123456789][.0123456789]*.[abcdefghijklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]*/*
 *://*.[0123456789][0123456789]*.com/*
 *://[0123456789][0123456789]*.com/*
+*://*.360.*/*
 *://[^a-z0-9](((([0-9]|syscan|400[0-9]{4}|os|i|luyou|)(360).*)|(qi(yuns3|xintongda|koo|hucdn|du|aoqiao|hoo(yun)?))|(sou?)|(qh(img|cdn|cdn|setup|msg|static|update))|(yun(id|pan))|(51(ast|hutong|assist)|secmp|msecret|201[0-9]pan|hackpwn|koux[iu]n|55dns|mgamer))\.(cn|com|net|中国)|((soulworker|cnao\.net|nelab-bdst\.org|urlqh|defcongroup|defcongroups|secmp\.org|idctj|vcloudglb|vcloudgtm|ixiangpai|xiuxiuge|whoisdb|passive-dns|passivedns|yongxinwan|leidian|gongxiangqun|mobile-it|airwatch\.com|adviva(\.com)?|mediav(iva)?\.com|cloudid(\.com)?|msecret\.com|mcleaner(\.com)?|mcleaner|mytoken(\.com)?|biji)\.cn))/*
 *://*.01dm.cn.com/*
 *://*.027xdl.com/*
