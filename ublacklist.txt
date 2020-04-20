@@ -1,11 +1,7 @@
 *://*.005382a.com/*
-*://[.0123456789][.0123456789]*.[abcdefghijklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]*/*
-*://*.[0123456789][0123456789]*.com/*
-*://[0123456789][0123456789]*.com/*
-*://*.360.*/*
-*://*.360.cn/*
-*://*.360.com/*
-*://[^a-z0-9](((([0-9]|syscan|400[0-9]{4}|os|i|luyou|)(360).*)|(qi(yuns3|xintongda|koo|hucdn|du|aoqiao|hoo(yun)?))|(sou?)|(qh(img|cdn|cdn|setup|msg|static|update))|(yun(id|pan))|(51(ast|hutong|assist)|secmp|msecret|201[0-9]pan|hackpwn|koux[iu]n|55dns|mgamer))\.(cn|com|net|中国)|((soulworker|cnao\.net|nelab-bdst\.org|urlqh|defcongroup|defcongroups|secmp\.org|idctj|vcloudglb|vcloudgtm|ixiangpai|xiuxiuge|whoisdb|passive-dns|passivedns|yongxinwan|leidian|gongxiangqun|mobile-it|airwatch\.com|adviva(\.com)?|mediav(iva)?\.com|cloudid(\.com)?|msecret\.com|mcleaner(\.com)?|mcleaner|mytoken(\.com)?|biji)\.cn))/*
+/[.0123456789][.0123456789]*\.[abcdefghijklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]*/
+/.*\.[0123456789][0123456789]*\.com/
+/[0123456789][0123456789]*\.com/
 *://*.01dm.cn.com/*
 *://*.027xdl.com/*
 *://*.0371cc.com/*
@@ -16,6 +12,7 @@
 *://*.07gf.cn.com/*
 *://*.0923456a.com/*
 *://*.092yl.com/*
+*://0xzx.com/*
 *://*.100down.com/*
 *://*.10368.org.cn/*
 *://*.10jqka.com.cn/*
@@ -38,6 +35,7 @@
 *://*.155.cn/*
 *://*.163.com/*
 *://*.1688wan.com/*
+*://170068.com/*
 *://*.170hi.com/*
 *://*.170mv.com/*
 *://*.17jita.com/*
@@ -72,6 +70,9 @@
 *://*.32r.com/*
 *://*.33lc.com/*
 *://*.357hp.com/*
+/.*\.360\..*/
+*://*.360.cn/*
+*://*.360.com/*
 *://*.360daikuan.com/*
 *://*.360jiyin.com/*
 *://*.360kuai.com/*
@@ -295,6 +296,7 @@
 *://*.axiake.com/*
 *://axutongxue.github.io/*
 *://*.axzgps.com/*
+/[^a-z0-9](((([0-9]|syscan|400[0-9]{4}|os|i|luyou|)(360).*)|(qi(yuns3|xintongda|koo|hucdn|du|aoqiao|hoo(yun)?))|(sou?)|(qh(img|cdn|cdn|setup|msg|static|update))|(yun(id|pan))|(51(ast|hutong|assist)|secmp|msecret|201[0-9]pan|hackpwn|koux[iu]n|55dns|mgamer))\.(cn|com|net|中国)|((soulworker|cnao\.net|nelab-bdst\.org|urlqh|defcongroup|defcongroups|secmp\.org|idctj|vcloudglb|vcloudgtm|ixiangpai|xiuxiuge|whoisdb|passive-dns|passivedns|yongxinwan|leidian|gongxiangqun|mobile-it|airwatch\.com|adviva(\.com)?|mediav(iva)?\.com|cloudid(\.com)?|msecret\.com|mcleaner(\.com)?|mcleaner|mytoken(\.com)?|biji)\.cn))/
 *://babypos.com/*
 *://baida.gq/*
 *://*.baiduyun.wiki/*
@@ -339,6 +341,7 @@
 *://bkhb.uk.com/*
 *://*.bkill.com/*
 *://bkso.baidu.com/*
+*://blog.sina.com.cn/*
 *://*.blogspot.com/*
 *://*.bmtforest.com/*
 *://bns.qq.com/*
@@ -641,6 +644,8 @@
 *://*.fhpi.cn/*
 *://*.finamedia.fr/*
 *://finance.*.*/*
+*://finance.sina.com/*
+*://finance.sina.com.cn/*
 *://*.findzd.com/*
 *://*.firefox.com.cn/*
 *://*.fitvwek.site/*
@@ -751,6 +756,7 @@
 *://*.hanboshi.com/*
 *://*.hangzhousoft.com/*
 *://*.hao123.com/*
+*://hao.360.com/*
 *://*.hao6v.com/*
 *://hao.su/*
 *://*.haote.com/*
@@ -786,6 +792,7 @@
 *://*.howlifeusa.com/*
 *://*.hoyoh.com/*
 *://*.hrny.cn.com/*
+*://hrtsea.com/*
 *://*.hrzpbs.com/*
 *://*.htqyy.com/*
 *://*.htsc.com.cn/*
@@ -990,6 +997,7 @@
 *://*.lauyathay.com/*
 *://*.lbesec.com/*
 *://*.ldmnq.com/*
+*://ldtube.com/*
 *://*.lecarusorestaurant.fr/*
 *://*.le.com/*
 *://*.leiphone.com/*
@@ -1015,6 +1023,7 @@
 *://*.liliufang.com/*
 *://*.limusf.com/*
 *://*.lingocn.com/*
+*://linux.ctocio.com.cn/*
 *://*.linuxdown.com/*
 *://*.linuxprobe.com/*
 *://*.liqucn.com/*
@@ -1037,7 +1046,7 @@
 *://*.lqkweb.com/*
 *://*.ls1x.com/*
 *://*.ludashi.com/*
-*://lukyee.com/* 
+*://lukyee.com/*
 *://*.lulinux.com/*
 *://*.lunwenxiazai.com/*
 *://lunwyc.com/*
@@ -1063,6 +1072,7 @@
 *://macwk.com/*
 *://*.macxin.com/*
 *://*.maczapp.com/*
+@*://mail.163.com/*
 *://maimai.cn/*
 *://*.maiqqlianghao.com/*
 *://*.makeblock.com/*
@@ -1122,12 +1132,14 @@
 *://mrmad.com.tw/*
 *://mrxn.net/*
 *://*.mshoulu.com/*
+*://m.szhmyscm.com/*
 *://*.mszq.cn.com/*
 *://*.mtksj.com/*
 *://*.mumayi.com/*
 *://*.muzhiwan.com/*
 *://*.muzisoft.com/*
 *://*.mvtk.net/*
+*://m.win10.uk/*
 *://mxd.tencent.com/*
 *://*.mxibe.com/*
 *://*.my0538.com/*
@@ -1268,6 +1280,7 @@
 *://*.prix-placard-dressing.fr/*
 *://*.prktszb.com/*
 *://*.prnasia.com/*
+*://product.pchouse.com.cn/*
 *://*.ps123.net/*
 *://ptiwkvb.top/*
 *://*.pubkc.com/*
@@ -1378,6 +1391,7 @@
 *://sdwyqb.com/*
 *://*.sdxitong.com/*
 *://*.sdxq.uk.com/*
+*://se.360.cn/*
 *://*.seagm.com/*
 *://search.bilibili.com/*
 *://*.secretmine.net/*
@@ -1391,6 +1405,7 @@
 *://*.shaoerbc.org/*
 *://*.shaoerbianchengwang.com/*
 *://*.shaohuoztj.com/*
+*://sharerdiary.com/*
 *://*.sharerw.com/*
 *://shaxiang.baidu.com/*
 *://shengkaimusical.com/*
@@ -1623,6 +1638,8 @@
 *://*.wangyuan.com/*
 *://*.wanmait.com/*
 *://*.wanyx.com/*
+*://wapbaike.baidu.com/*
+*://wap.z4root.cn/*
 *://*.wc*.cn.com/*
 *://*.wdwyh.com/*
 *://*.weather.com.cn/*
@@ -1633,6 +1650,7 @@
 *://*.weidown.com/*
 *://*.weihenglaw.com/*
 *://*.weiku999.com/*
+*://weishi.360.cn/*
 *://*.weixinxb.com/*
 *://*.weiyun.com/*
 *://wemp.app/*
@@ -1681,6 +1699,25 @@
 *://*.wukong.com/*
 *://*.wutuxs.com/*
 *://wuxia.qq.com/*
+*://www.360.cn/*
+*://www.8264.com/*
+*://www.97riju.net/*
+*://www.agoda.com/*
+*://www.cuiuc.com/*
+*://www.gaoredu.com/*
+*://www.go176.net/*
+*://www.graferia.com/*
+*://www.hanzi5.com/*
+*://www.haorenka.org/*
+*://www.hezibuluo.com/*
+*://www.life-face.com/*
+*://www.manhua123.cn/*
+*://www.mtyun.com/*
+*://www.pc6.com/*
+*://www.w3cplus.com/*
+*://www.yeyulingfeng.com/*
+*://www.zdfans.com/*
+*://www.zhipanyou.com/*
 *://*.wxacd.com/*
 *://wxn.qq.com/*
 *://wz336688.com/*
@@ -1697,6 +1734,7 @@
 *://*.xf1433.com/*
 *://xfbuut.xyz/*
 *://*.xfdown.com/*
+*://xh.5156edu.com/*
 *://*.xhgzhb.xyz/*
 *://*.xiacoo.com/*
 *://*.xiafeifei.com/*
@@ -1867,6 +1905,7 @@
 *://*.zhixing123.cn/*
 *://*.zhixue.com/*
 *://*.zhongjie.com/*
+*://zhongxue.hujiang.com/*
 *://zhongyanfeng.com/*
 *://*.zhouenk.com/*
 *://*.zhuangjiba.com/*
@@ -1874,6 +1913,8 @@
 *://*.zhuidds.com/*
 *://*.zhuolin.wang/*
 *://*.zhuzhupan.com/*
+*://zh.vpnmentor.com/*
+@*://zh.wikipedia.org/*
 *://*.zihorr.xyz/*
 *://zi.media/*
 *://*.zimuku.la/*
@@ -1911,6 +1952,3 @@
 *://*.zzlzl.com/*
 *://*.zzs5.com/*
 *://*.zzzlf.com/*
-*://www.mtyun.com/*
-*://170068.com/*
-*://wapbaike.baidu.com/*
