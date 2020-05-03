@@ -1,6 +1,5 @@
 @*://*.12306.cn/*
 @*://12306.cn/*
-/[.0123456789][.0123456789]*\.[abcdefghijklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]*/
 /.*\.[0123456789][0123456789]*\.com/
 /[0123456789][0123456789]*\.com/
 *://*.01dm.cn.com/*
