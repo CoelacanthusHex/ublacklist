@@ -1,5 +1,6 @@
 @*://*.12306.cn/*
 @*://12306.cn/*
+@*://music.163.com/*
 /.*\.[0123456789][0123456789]*\.com/
 /[0123456789][0123456789]*\.com/
 *://*.01dm.cn.com/*
@@ -2139,7 +2140,6 @@
 *://www.pengdahouse.com/*
 *://www.wenzixinyu.com/*
 *://www.tt-europa.com/*
-@*://music.163.com/*
 *://jinzc.com/*
 *://www.fuyingdq.com/*
 *://zhongce.sina.com.cn/*
